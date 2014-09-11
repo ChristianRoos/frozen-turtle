@@ -1,5 +1,4 @@
 # Brainstorming
-=============
 
 ## Game style alternatives
 * RPG
